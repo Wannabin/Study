@@ -8,14 +8,25 @@ namespace CSharp
 {
     class Program
     {
+        static void Divide(int a, int b, out int result1, out int result2)
+        {
+            result1 = a / b;
+            result2 = a % b;
+
+        }
         static void Main(string[] args)
         {
-            int hp;
-            int level = 3^4;
 
-            hp = 100;
+            int num1 = 10;
+            int num2 = 3;
 
-            Console.WriteLine("Hello Number ! {0}", level);
+            int result1;
+            int result2;
+
+            Divide(num1, num2,out result1,out result2);
+
+            Console.WriteLine(result1);
+            Console.WriteLine(result2);
         }
     }
 }
