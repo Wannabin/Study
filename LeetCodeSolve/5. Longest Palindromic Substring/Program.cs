@@ -28,7 +28,7 @@ namespace _5.Longest_Palindromic_Substring
                 {
                     Boolean judge = s[i] == s[j];
 
-                    dp[i][j] = j - i > 2 ? dp[i + 1][j - 1] && judge : judge;
+                    dp[i][j] = j - i > 2 ? dp[i + 1][j - 1] && judge : judge; 
 
                     if (dp[i][j] && j - i + 1 > max)
                     {

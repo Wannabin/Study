@@ -8,25 +8,20 @@ namespace CSharp
 {
     class Program
     {
-        static void Divide(int a, int b, out int result1, out int result2)
+        static int Add(int a, int b, int c = 0, float d = 1.0f, double e = 3.0)
         {
-            result1 = a / b;
-            result2 = a % b;
-
+            Console.WriteLine("Add int 호출");
+            return a + b + c;
         }
+        // i l I L 
         static void Main(string[] args)
         {
 
-            int num1 = 10;
-            int num2 = 3;
+            int result = Program.Add(1, 2, d: 2);
 
-            int result1;
-            int result2;
+            Console.WriteLine(result);
 
-            Divide(num1, num2,out result1,out result2);
-
-            Console.WriteLine(result1);
-            Console.WriteLine(result2);
+            
         }
     }
 }

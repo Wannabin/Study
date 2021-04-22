@@ -1,13 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace AddTwoNumbers
 {
     class Program
     {
+        //LinkedListNode<int> LinkedListNode = new LinkedListNode<int>(0);
+        
+        
         public class ListNode
         {
-            public int val;
-            public ListNode next;
+            
+            public int val; //데이터 저장 변수
+            public ListNode next; //다른 노드를 참조할 링크 노드
             public ListNode(int val = 0, ListNode next = null)
             {
                 this.val = val;
@@ -17,6 +22,7 @@ namespace AddTwoNumbers
 
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
         {
+            
             ListNode dummyHead = new ListNode(0);
             ListNode p = l1, q = l2, curr = dummyHead;
             int carry = 0;
@@ -49,7 +55,10 @@ namespace AddTwoNumbers
         static void Main(string[] args)
         {
             ListNode test1 = new ListNode(0);
-            test1 = [0, 1];
+
+            test1.next = new ListNode(1);
+            test1.next = new ListNode(2);
+
         }
     }
 }
