@@ -1,0 +1,7 @@
+C:\Workspace\Study\LeetCodeSolve\6. ZigZag Conversion\bin\Debug\_6.ZigZag_Conversion.exe.config
+C:\Workspace\Study\LeetCodeSolve\6. ZigZag Conversion\bin\Debug\_6.ZigZag_Conversion.exe
+C:\Workspace\Study\LeetCodeSolve\6. ZigZag Conversion\bin\Debug\_6.ZigZag_Conversion.pdb
+C:\Workspace\Study\LeetCodeSolve\6. ZigZag Conversion\obj\Debug\6. ZigZag Conversion.csprojAssemblyReference.cache
+C:\Workspace\Study\LeetCodeSolve\6. ZigZag Conversion\obj\Debug\6. ZigZag Conversion.csproj.CoreCompileInputs.cache
+C:\Workspace\Study\LeetCodeSolve\6. ZigZag Conversion\obj\Debug\_6.ZigZag_Conversion.exe
+C:\Workspace\Study\LeetCodeSolve\6. ZigZag Conversion\obj\Debug\_6.ZigZag_Conversion.pdb
