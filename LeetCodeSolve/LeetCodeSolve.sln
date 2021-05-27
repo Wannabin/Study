@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Substring Without R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Longest Palindromic Substring", "5. Longest Palindromic Substring\5. Longest Palindromic Substring.csproj", "{4079A19C-A904-4DC6-B21E-1C01EE7E2D7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. ZigZag Conversion", "6. ZigZag Conversion\6. ZigZag Conversion.csproj", "{69463B08-2C8F-412E-BAD2-14398A6C6A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Reverse Integer", "7. Reverse Integer\7. Reverse Integer.csproj", "{FAC77437-A96E-4D76-9704-CD1FD0332CAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4079A19C-A904-4DC6-B21E-1C01EE7E2D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4079A19C-A904-4DC6-B21E-1C01EE7E2D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4079A19C-A904-4DC6-B21E-1C01EE7E2D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69463B08-2C8F-412E-BAD2-14398A6C6A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69463B08-2C8F-412E-BAD2-14398A6C6A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69463B08-2C8F-412E-BAD2-14398A6C6A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69463B08-2C8F-412E-BAD2-14398A6C6A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC77437-A96E-4D76-9704-CD1FD0332CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC77437-A96E-4D76-9704-CD1FD0332CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC77437-A96E-4D76-9704-CD1FD0332CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC77437-A96E-4D76-9704-CD1FD0332CAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Workspace\Study\LeetCodeSolve\7. Reverse Integer\bin\Debug\_7.Reverse_Integer.exe.config
+C:\Workspace\Study\LeetCodeSolve\7. Reverse Integer\bin\Debug\_7.Reverse_Integer.exe
+C:\Workspace\Study\LeetCodeSolve\7. Reverse Integer\bin\Debug\_7.Reverse_Integer.pdb
+C:\Workspace\Study\LeetCodeSolve\7. Reverse Integer\obj\Debug\7. Reverse Integer.csprojAssemblyReference.cache
+C:\Workspace\Study\LeetCodeSolve\7. Reverse Integer\obj\Debug\7. Reverse Integer.csproj.CoreCompileInputs.cache
+C:\Workspace\Study\LeetCodeSolve\7. Reverse Integer\obj\Debug\_7.Reverse_Integer.exe
+C:\Workspace\Study\LeetCodeSolve\7. Reverse Integer\obj\Debug\_7.Reverse_Integer.pdb
