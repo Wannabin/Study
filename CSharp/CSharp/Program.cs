@@ -127,7 +127,7 @@ namespace CSharp
             CreateRandomMonster(out monster);
 
             Console.WriteLine("[1] 전투 모드로 돌입");
-            Console.WriteLine("[2] 일정 확률로 마을로 도망");
+            Console.WriteLine("[2] 일정 확률로 마을로 도망"); 
 
         }
 
