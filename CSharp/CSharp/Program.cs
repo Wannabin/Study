@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharp
 {
+    //객체 (OOP Object Oriented Programming)
     class Program
     {
         enum ClassType
@@ -198,6 +199,8 @@ namespace CSharp
             }
         }
 
+        // 절차(Procedure) 지향
+        // 
         static void Main(string[] args)
         {
             while (true)
