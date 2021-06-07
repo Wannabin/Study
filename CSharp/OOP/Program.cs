@@ -59,7 +59,7 @@ namespace OOP
 
             Knight knight = new Knight();
             knight.hp = 100;
-            knight.attack = 10;
+            knight.attack = 10; 
             KillKnight(knight); 
 
             knight.Move();
