@@ -21,6 +21,20 @@ namespace OOP
             public int hp;
             public int attack;
 
+            public Knight()
+            {
+                hp = 100;
+                attack = 10;
+                Console.WriteLine("생성자 호출!");
+            }
+
+            public Knight(int hp) : this()
+            {
+                this.hp = hp;
+
+               
+            }
+
             public void Move()
             {
                 Console.WriteLine("Knight Move");
@@ -52,18 +66,18 @@ namespace OOP
 
         static void Main(string[] args)
         {
-            Mage mage;
-            mage.hp = 100;
-            mage.attack = 50;
-            KillMage(mage);
+            //Mage mage;
+            //mage.hp = 100;
+            //mage.attack = 50;
+            //KillMage(mage);
 
-            Knight knight = new Knight();
-            knight.hp = 100;
-            knight.attack = 10; 
-            KillKnight(knight); 
+            Knight knight = new Knight(50);
+            //knight.hp = 100;
+            //knight.attack = 10; 
+            //KillKnight(knight); 
 
-            knight.Move();
-            knight.Attack();
+            //knight.Move();
+            //knight.Attack();
         }
     }
 }
