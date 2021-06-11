@@ -54,7 +54,7 @@ namespace OOP
             public int attack;
         }
 
-        static void KillMage(Mage mage) 
+        static void KillMage(Mage mage)  
         {
             mage.hp = 0;
         }
