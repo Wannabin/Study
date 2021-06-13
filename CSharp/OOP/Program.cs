@@ -22,7 +22,7 @@ namespace OOP
             public int attack;
 
             public Knight()
-            {
+            { 
                 hp = 100;
                 attack = 10;
                 Console.WriteLine("생성자 호출!");
