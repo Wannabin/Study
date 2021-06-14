@@ -18,7 +18,7 @@ namespace OOP
         // Ref, 참조
         class Knight
         {
-            public int hp;
+            public int hp; 
             public int attack;
 
             public Knight()
