@@ -20,7 +20,7 @@ namespace OOP
         {
             public int hp;   
             public int attack;    
-
+             
             public Knight()
             { 
                 hp = 100;
