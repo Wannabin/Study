@@ -25,7 +25,7 @@ namespace OOP
             { 
                 hp = 100;
                 attack = 10;
-                Console.WriteLine("생성자 호출!");
+                Console.WriteLine("생성자 호출!"); 
             }
 
             public Knight(int hp) : this()
